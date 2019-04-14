@@ -1,4 +1,4 @@
-# *1.Visualizations *
+# *1.Visualizations*
 
 ### Visualization 1
 
