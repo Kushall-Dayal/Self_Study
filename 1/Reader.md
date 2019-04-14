@@ -19,7 +19,7 @@
 
 ### Visualization 4
 
-<kbd>![img](images/5.PNG)</kbd>
+<kbd>![png](images/5.PNG)</kbd>
 
 ### Visualization 5
 
