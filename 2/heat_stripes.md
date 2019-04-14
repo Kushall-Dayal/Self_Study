@@ -1,7 +1,7 @@
 
 # Visualizing Heat Stripes
 
-The following image was made on **Tableau** with help of the 
+The following image was made on **Tableau**(see workbook: Book1.twb) with help of the 
 
 **dataset**:HadCRUT.4.6.0.0.annual_ns_avg_smooth
 
