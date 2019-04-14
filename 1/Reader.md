@@ -23,6 +23,7 @@
 
 ### Visualization 5
 
+<kbd>![png](images/6.PNG)</kbd>
 
 
 # *2.Assessment & Conclusion*
