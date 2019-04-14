@@ -1,11 +1,11 @@
 
 
 # Visualisation 1
-<kbd>![alt text](images/2.jpg)</kbd>
+<kbd>![img](images/2.jpg)</kbd>
 
 # Visualisation 2
 
-<kbd>![alt text](images/3.gif)</kbd>
+<kbd>![gif](images/3.gif)</kbd>
 
 # Visualisation 3
 
@@ -15,4 +15,4 @@
 
 
 
-#Conclusion
+# Conclusion
