@@ -8,14 +8,14 @@
 
 ### Visualization 2
 
+<kbd>![png](images/4.png)</kbd>
 
-<kbd>![img](images/2.jpg)</kbd>
 
 
 
 ### Visualization 3
 
-<kbd>![png](images/4.png)</kbd>
+<kbd>![img](images/2.jpg)</kbd>
 
 ### Visualization 4
 
