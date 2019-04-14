@@ -9,19 +9,29 @@ The evaluation will be done as follows :
 
 <kbd>![gif](images/3.gif)</kbd>
 
-#### Understanding the X and Y co-ordinates:
+#### Understanding the scale :
 #### Description and Interpretation:
 #### Interesting aspects of the visualisation:
 #### Suggested improvements:
+
 ### Visualization 2
 
 <kbd>![png](images/4.png)</kbd>
 
+#### Understanding the X and Y co-ordinates:
+#### Description and Interpretation:
+#### Interesting aspects of the visualisation:
+#### Suggested improvements:
 
 
 
 ### Visualization 3
 <kbd>![png](images/6.png)</kbd>
+
+#### Understanding the X and Y co-ordinates:
+#### Description and Interpretation:
+#### Interesting aspects of the visualisation:
+#### Suggested improvements:
 
 
 
@@ -29,7 +39,19 @@ The evaluation will be done as follows :
 
 <kbd>![png](images/5.PNG)</kbd>
 
+#### Understanding the X and Y co-ordinates:
+#### Description and Interpretation:
+#### Interesting aspects of the visualisation:
+#### Suggested improvements:
+
+
 ### Visualization 5
+
+#### Understanding the X and Y co-ordinates:
+#### Description and Interpretation:
+#### Interesting aspects of the visualisation:
+#### Suggested improvements:
+
 
 
 
