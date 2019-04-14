@@ -1,6 +1,7 @@
 
 
 # Visualisation 1
+
 <kbd>![img](images/2.jpg)</kbd>
 
 # Visualisation 2
@@ -8,6 +9,9 @@
 <kbd>![gif](images/3.gif)</kbd>
 
 # Visualisation 3
+
+<kbd>![gif](images/4.png)</kbd>
+
 
 # Visualisation 4
 
