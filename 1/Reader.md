@@ -1,7 +1,7 @@
 
 
 # Visualisation 1
-![alt text](images/2.jpg)
+<kbd>![alt text](images/2.jpg)</kbd>
 
 # Visualisation 2
 
