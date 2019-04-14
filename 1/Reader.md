@@ -13,7 +13,9 @@ The evaluation will be done as follows :
 #### Description and Interpretation:
 The visualisation covers the temperature change for 180 countries from the year 1880 to 2017 .The scale of the temperature change ranges from -2.0 Degree Celsius to 2 Degree Celsius depicted in circles for each country individually,the color change from blue to red follows the scale.This suggests that temperature has risen over the years! 
 #### Interesting aspects of the visualisation:
+This visualisation is multidimensional it tries to convey the effect of **time** on **climate** for many **places** 
 #### Suggested improvements:
+It misses out on countries like Belgium and UK.
 
 ### Visualization 2
 
