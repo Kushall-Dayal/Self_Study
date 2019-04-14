@@ -14,8 +14,9 @@
 
 
 ### Visualization 3
+<kbd>![png](images/6.png)</kbd>
 
-<kbd>![img](images/2.jpg)</kbd>
+
 
 ### Visualization 4
 
@@ -23,7 +24,7 @@
 
 ### Visualization 5
 
-<kbd>![png](images/6.png)</kbd>
 
 
 # *2.Assessment & Conclusion*
+<kbd>![img](images/2.jpg)</kbd>
