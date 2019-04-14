@@ -1,5 +1,9 @@
 # *1.Visualizations*
-
+The evaluation will be done as follows :
+1.Understanding the X and Y co-ordinates. 
+2.Description and Interpretation: What underlying theory does the visualisation try to prove.
+3.Interesting aspects of the visualisation
+4.Improvements expected 
 ### Visualization 1
 
 <kbd>![gif](images/3.gif)</kbd>
