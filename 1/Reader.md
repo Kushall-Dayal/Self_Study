@@ -11,6 +11,7 @@ The evaluation will be done as follows :
 
 
 #### Description and Interpretation:
+The visualisation covers the temperature change for 180 countries from the year 1880 to 2017 .The scale of the temperature change ranges from -2.0 Degree Celsius to 2 Degree Celsius depicted in circles for each country individually 
 #### Interesting aspects of the visualisation:
 #### Suggested improvements:
 
