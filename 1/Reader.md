@@ -1,7 +1,7 @@
 # *1.Visualizations*
 The evaluation will be done as follows :
 1. Understanding the X and Y co-ordinates. 
-2. Description and Interpretation: What underlying theory does the visualisation try to prove.
+2. Interpretation: What underlying theory does the visualisation try to prove.
 3. Interesting aspects of the visualisation
 4. Suggested improvements 
 
@@ -9,7 +9,7 @@ The evaluation will be done as follows :
 
 <kbd>![gif](images/3.gif)</kbd>
 
-#### Understanding the scale of the visualisation :
+
 #### Description and Interpretation:
 #### Interesting aspects of the visualisation:
 #### Suggested improvements:
@@ -19,7 +19,7 @@ The evaluation will be done as follows :
 <kbd>![png](images/4.png)</kbd>
 
 #### Understanding the X and Y co-ordinates:
-#### Description and Interpretation:
+#### Interpretation:
 #### Interesting aspects of the visualisation:
 #### Suggested improvements:
 
@@ -29,7 +29,7 @@ The evaluation will be done as follows :
 <kbd>![png](images/6.png)</kbd>
 
 #### Understanding the X and Y co-ordinates:
-#### Description and Interpretation:
+#### Interpretation:
 #### Interesting aspects of the visualisation:
 #### Suggested improvements:
 
@@ -40,7 +40,7 @@ The evaluation will be done as follows :
 <kbd>![png](images/5.PNG)</kbd>
 
 #### Understanding the X and Y co-ordinates:
-#### Description and Interpretation:
+#### Interpretation:
 #### Interesting aspects of the visualisation:
 #### Suggested improvements:
 
@@ -48,7 +48,7 @@ The evaluation will be done as follows :
 ### Visualization 5
 
 #### Understanding the X and Y co-ordinates:
-#### Description and Interpretation:
+#### Interpretation:
 #### Interesting aspects of the visualisation:
 #### Suggested improvements:
 
