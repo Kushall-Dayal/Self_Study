@@ -9,7 +9,7 @@ The evaluation will be done as follows :
 
 <kbd>![gif](images/3.gif)</kbd>
 
-#### Understanding the scale :
+#### Understanding the scale of the visualisation :
 #### Description and Interpretation:
 #### Interesting aspects of the visualisation:
 #### Suggested improvements:
