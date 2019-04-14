@@ -22,10 +22,13 @@ It misses out on countries like Belgium and UK which can be added.The visualisat
 <kbd>![png](images/4.png)</kbd>
 
 #### Understanding the X and Y co-ordinates:
+X-axis depicts the months  from January to December.Y-axis again depicts the temperature anomalies ranging from -4 Degree to 3 Degree Celsius(temperature anomaly is the difference between a fixed temperature and the temperature reading of the current timestamp).
 #### Interpretation:
+The visualisation depicts seasonal cycle anomalies since 1880.Each colored line depicts a timeframe (years:-1880,1900,1920,1940,1960,1980,200,2019).It is still noticable that temperatures have risen over the years.
 #### Interesting aspects of the visualisation:
+Here we can compare the temperature from different time-stamps which the previous visualisation was  incapable of (eg:We can notice that winters were warmer in the timeframe 2000)
 #### Suggested improvements:
-
+I would suggest better use of colors so that the lines are distinct and more readable. Use of gradually changing colors and overlapping makes it difficult to interpret the temperature trends (eg:lines orange and red very difficult to interpret individually)
 
 
 ### Visualization 3
