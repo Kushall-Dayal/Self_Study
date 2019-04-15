@@ -73,3 +73,12 @@ The research should have been updated to the year 2019 which would include more 
 
 
 # *2.Assessment & Conclusion*
+
+The visualisations have assesses as follows:
+
+| Visualization  | 1 | 2 | 3 | 4 | 5 |
+|----------------|---|---|---|---|---|
+| Well Defined   | 5 | 4 | 3 | 3 | 5 |
+| Clarity        | 3 | 3 | 5 | 5 | 5 |
+| Presentation   | 4 | 4 | 5 | 5 | 4 |
+| Attractive     | 5 | 3 | 5 | 5 | 3 |
