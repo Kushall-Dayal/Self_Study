@@ -50,13 +50,17 @@ X-axis could have some breakpoints instead of no break points, it could have hel
 <kbd>![png](images/5.PNG)</kbd>
 
 #### Understanding the X and Y co-ordinates:
+X-axis depicts Months .Y-axis depicts temperature in Fahreneit(40 to 90)
 #### Interpretation:
+This graph tends to depict what will be the seasonal temperature in Santa by the year 2050,the grey bar stands for the year 1986-2015 and green bar stands for year 2036-2065. By the intuition of the visualisation it looks that temperatures will increase by 2-3 degree fahreneit . 
 #### Interesting aspects of the visualisation:
+It tries to dive into the future and cover many dimensions like time in years and months and temperaturein fahreneits.It also give a clear comparison between the set time frames.
 #### Suggested improvements:
-
+The bars overlap and have no clear distinction for the temperature with time ,the bars could be broken into several small time frames for a better view of change in temperature with time.
 
 ### Visualization 5
 
+<kbd>![png](images/7.PNG)</kbd>
 #### Understanding the X and Y co-ordinates:
 #### Interpretation:
 #### Interesting aspects of the visualisation:
@@ -66,4 +70,3 @@ X-axis could have some breakpoints instead of no break points, it could have hel
 
 
 # *2.Assessment & Conclusion*
-<kbd>![img](images/2.jpg)</kbd>
