@@ -74,7 +74,7 @@ The research should have been updated to the year 2019 which would include more 
 
 # *2.Assessment & Conclusion*
 
-The visualisations have assessed as follows:
+The visualisations have been assessed as follows:
 
 | Visualization  | 1 | 2 | 3 | 4 | 5 |
 |----------------|---|---|---|---|---|
