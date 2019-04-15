@@ -26,7 +26,7 @@ X-axis depicts the months  from January to December.Y-axis again depicts the tem
 #### Interpretation:
 The visualisation depicts seasonal cycle anomalies since 1880.Each colored line depicts a timeframe (years:-1880,1900,1920,1940,1960,1980,200,2019).It is still noticable that temperatures have risen over the years.
 #### Interesting aspects of the visualisation:
-Here we can compare the temperature from different time-stamps which the previous visualisation was  incapable of (eg:We can notice that winters were warmer in the timeframe 2000)
+Here we can compare the temperature from different time-stamps which the previous visualisation was  incapable of (eg:We can notice that winters were warmer in 2000 than 2019)
 #### Suggested improvements:
 I would suggest better use of colors so that the lines are distinct and more readable. Use of gradually changing colors and overlapping makes it difficult to interpret the temperature trends (eg:lines orange and red very difficult to interpret individually)
 
@@ -35,8 +35,11 @@ I would suggest better use of colors so that the lines are distinct and more rea
 <kbd>![png](images/6.png)</kbd>
 
 #### Understanding the X and Y co-ordinates:
+X-axis depicts the years 1880 to 2017.Y-axis(Left) depicts the temperature anomoly ranging from -0.3 degree Celsius to 1.1 degree Celsius .Y-axis(Left) depicts the content of CO2 in air in PPM(parts per million).
 #### Interpretation:
+The intent of this graph is to show that rise in temperature(red line) is caused by excessive CO2(yellow line) in the air that humans have caused.CO2 is one of the green house gases that traps heat inside the Earth's atmosphere.
 #### Interesting aspects of the visualisation:
+This visualisation clearly shows the direct impact of pollution(excessive CO2) on the temperatures in recent human history.
 #### Suggested improvements:
 
 
