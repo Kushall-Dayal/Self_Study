@@ -74,7 +74,7 @@ The research should have been updated to the year 2019 which would include more 
 
 # *2.Assessment & Conclusion*
 
-The visualisations have assesses as follows:
+The visualisations have assessed as follows:
 
 | Visualization  | 1 | 2 | 3 | 4 | 5 |
 |----------------|---|---|---|---|---|
@@ -82,3 +82,7 @@ The visualisations have assesses as follows:
 | Clarity        | 3 | 3 | 5 | 5 | 5 |
 | Presentation   | 4 | 4 | 5 | 5 | 4 |
 | Attractive     | 5 | 3 | 5 | 5 | 3 |
+
+Each criteria is marked out of 5
+
+The graphs above , each have a story to tell.But the common conception was that temperatures have increased significanlty over the years.There is a buzz out that the major reason behind this phenomena is emissions created by human activities .This is a one sided point of view , 4 out of 5 visualizations depicted only cover a time frame that is very recent in terms of human history .But only one depiction covered a story from pre-historic era which suggests that there might be trends in climate change when a bigger time frame is considered.
