@@ -60,7 +60,7 @@ The bars overlap and have no clear distinction for the temperature with time ,th
 
 ### Visualization 5
 
-<kbd>![png](images/7.PNG)</kbd>
+<kbd>![png](images/7.png)</kbd>
 #### Understanding the X and Y co-ordinates:
 #### Interpretation:
 #### Interesting aspects of the visualisation:
