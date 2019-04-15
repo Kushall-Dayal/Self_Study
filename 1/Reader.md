@@ -41,6 +41,7 @@ The intent of this graph is to show that rise in temperature(red line) is caused
 #### Interesting aspects of the visualisation:
 This visualisation clearly shows the direct impact of pollution(excessive CO2) on the temperatures in recent human history.
 #### Suggested improvements:
+X-axis could have some breakpoints instead of no break points, it could have helped identify the time of local maximum temperatures like the one right in the centre.
 
 
 
